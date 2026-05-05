@@ -27,18 +27,6 @@ ARGSOFT es una empresa argentina dedicada a transformar ideas en experiencias di
 3. **Desarrollo**: Programación con código limpio y demos funcionales.
 4. **Despliegue**: Testing, lanzamiento y soporte post-lanzamiento.
 
-## 🌟 Proyectos Destacados
-
-- [Booking-Bot](https://booking-bot-wpp.web.app/)
-- [Hooligang Cuts](https://hooligangcuts.netlify.app/)
-- [Campo Fertil](https://campofertilreact.netlify.app/)
-- [Mikem'Store](https://mikemstore.netlify.app/)
-- [Sneaker Solid](https://sneakersolid.netlify.app/)
-
-## 🤝 Clientes
-
-Con la confianza de líderes de la industria como Hooligang Cuts y Campo Fertil.
-
 ## 📞 Contacto
 
 - Email: [argsoft.ar@gmail.com](mailto:argsoft.ar@gmail.com)
