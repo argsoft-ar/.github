@@ -5,7 +5,7 @@
   
 	**Transformando ideas en experiencias digitales.**
   
-	_Haciendo el futuro de la web hoy._
+	_Haciendo el futuro de la web hoy y siempre._
 </div>
 
 ---
