@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://www.argsoft.ar/assets/logo-DmRjlA6S.png" alt="ARGSOFT Logo" width="120"/>
+	<img src="https://www.argsoft.ar/assets/logo-vL5w22_3.png" alt="ARGSOFT Logo" width="120"/>
   
 	# ARGSOFT
   
